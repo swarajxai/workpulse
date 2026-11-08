@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "WorkPulse",
+      "hasCanvas": false,
+      "bodyTextLen": 5776,
+      "bodyTextHash": "65030a481966dd9d9a250b7878026fc65d66e93a53e801c22f18bc32adce1dd0",
+      "bodyTextPrefix": "W WorkPulse About Method Prototype Ethics Who we are Open the sc",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "WorkPulse",
+      "hasCanvas": false,
+      "bodyTextLen": 5735,
+      "bodyTextHash": "7e1ae185ac0f94e01a1ef4a1f74e9547d964574fbc5f639e482d7ac311770b2e",
+      "bodyTextPrefix": "W WorkPulse Open the score VEER SURENDRA SAI UNIVERSITY OF TECHN",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

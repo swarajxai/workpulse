@@ -1,0 +1,1011 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Sai Bighnesh Bahali)
+/CreationDate (D\07220261029142139\05300\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220261029142139\05300\04700\047)
+/Subject (Organisational Behaviour Term Report)
+/Title (WorkPulse\072 Employee Workload and Fatigue Monitoring System)
+/Trapped (\057False)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 5 0 R 13 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 12601
+>>
+stream
+q 0.975 0 0 0.975 7.3465 9.9142 cm
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 53.85827 780.3701 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F3 16 Tf 19 TL 34.21153 0 Td (VEER SURENDRA SAI UNIVERSITY OF TECHNOLOGY) Tj T* -34.21153 0 Td ET
+Q
+Q
+q
+1 0 0 1 53.85827 767.3701 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 2.5 Tm /F4 10.5 Tf 13 TL 163.2918 0 Td (\(VSSUT\), BURLA, ODISHA, INDIA) Tj T* -163.2918 0 Td ET
+Q
+Q
+q
+1 0 0 1 53.85827 762.9701 cm
+q
+1.4 w
+1 J
+.356863 .101961 .101961 RG
+n 0 0 m 487.5591 0 l S
+Q
+Q
+q
+1 0 0 1 53.85827 761.5701 cm
+q
+.4 w
+1 J
+.356863 .101961 .101961 RG
+n 0 0 m 487.5591 0 l S
+Q
+Q
+q
+1 0 0 1 53.85827 744.5701 cm
+q
+BT 1 0 0 1 0 2.5 Tm 136.6113 0 Td 13 TL /F2 10.5 Tf .333333 .333333 .333333 rg (Subject: Organisational Behaviour  ) Tj (|) Tj (  Term Report) Tj T* -136.6113 0 Td ET
+Q
+Q
+q
+1 0 0 1 53.85827 742.5701 cm
+Q
+q
+1 0 0 1 53.85827 713.5701 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 4 Tm /F3 22 Tf 26 TL 172.2685 0 Td (WORKPULSE) Tj T* -172.2685 0 Td ET
+Q
+Q
+q
+1 0 0 1 53.85827 698.5701 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 2.5 Tm /F5 12.5 Tf 15 TL 107.8233 0 Td (Employee Workload and Fatigue Monitoring System) Tj T* -107.8233 0 Td ET
+Q
+Q
+q
+1 0 0 1 53.85827 684.5701 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 141.8445 0 Td (A proposed Python-based early-warning prototype) Tj T* -141.8445 0 Td ET
+Q
+Q
+q
+1 0 0 1 53.85827 680.5701 cm
+Q
+q
+1 0 0 1 53.85827 628.1701 cm
+q
+.964706 .941176 .901961 rg
+n 0 52.4 487.5591 -52.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 4 cm
+q
+BT 1 0 0 1 0 35.1 Tm 11.1 TL /F3 9.3 Tf .101961 .101961 .101961 rg (SUBMITTED BY) Tj /F4 9.3 Tf  T* (SAI BIGHNESH BAHALI) Tj  T* (Regd. No.: 2502110077) Tj  T* (Branch: Production Engineering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.7843 4 cm
+q
+BT 1 0 0 1 0 24 Tm 11.1 TL /F3 9.3 Tf .101961 .101961 .101961 rg (GUIDED BY) Tj /F4 9.3 Tf  T* (MR. PRASANT BARLA) Tj  T*  T* ET
+Q
+Q
+q
+1 J
+1 j
+.356863 .101961 .101961 RG
+.8 w
+n 0 52.4 m 487.5591 52.4 l S
+n 0 0 m 487.5591 0 l S
+n 0 0 m 0 52.4 l S
+n 487.5591 0 m 487.5591 52.4 l S
+.4 w
+n 282.7843 0 m 282.7843 52.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 53.85827 609.6701 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.7 Tm /F3 11.8 Tf 13.5 TL (1. Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 543.6701 cm
+q
+BT 1 0 0 1 0 53.5 Tm 2.403066 Tw 12.7 TL /F4 10 Tf .101961 .101961 .101961 rg (Employee performance depends not only on skill and equipment but also on workload, overtime, rest, stress and) Tj T* 0 Tw .498768 Tw (managerial support. When fatigue builds up, workers may find it harder to concentrate, maintain quality or work safely.) Tj T* 0 Tw 2.569218 Tw /F3 10 Tf (WorkPulse) Tj /F4 10 Tf ( is a proposed Python-based early-warning system that organises a few work-related indicators into a) Tj T* 0 Tw 1.170566 Tw (transparent workload-risk score. It is intended to support timely conversations and fair task planning, ) Tj /F3 10 Tf (not) Tj /F4 10 Tf ( to diagnose) Tj T* 0 Tw (health conditions or judge an employee\222s commitment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 525.1701 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.7 Tm /F3 11.8 Tf 13.5 TL (2. Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 509.9701 cm
+q
+BT 1 0 0 1 2 2.7 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (\177) Tj ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 13 2.7 Tm /F4 10 Tf 12.7 TL (To demonstrate how basic programming can support an Organisational Behaviour decision.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 483.0701 cm
+q
+BT 1 0 0 1 2 15.4 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (\177) Tj ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 13 15.4 Tm /F4 10 Tf 12.7 TL 1.223504 Tw (To identify possible workload warning signs using work hours, overtime, break duration, self-reported fatigue and) Tj T* 0 Tw (task-error count.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 468.8701 cm
+q
+BT 1 0 0 1 2 2.7 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (\177) Tj ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 13 2.7 Tm /F4 10 Tf 12.7 TL (To generate understandable alerts and practical suggestions for managers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 454.6701 cm
+q
+BT 1 0 0 1 2 2.7 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (\177) Tj ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 13 2.7 Tm /F4 10 Tf 12.7 TL (To encourage employee well-being, safe work practices and fair task allocation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 440.4701 cm
+q
+BT 1 0 0 1 2 2.7 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (\177) Tj ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 13 2.7 Tm /F4 10 Tf 12.7 TL (To protect privacy and trust through consent, transparency and limited data use.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 421.9701 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.7 Tm /F3 11.8 Tf 13.5 TL (3. Methodology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 368.6701 cm
+q
+BT 1 0 0 1 0 40.8 Tm .602604 Tw 12.7 TL /F4 10 Tf .101961 .101961 .101961 rg (The prototype accepts manually entered or voluntarily reported data. Each input is checked against simple, documented) Tj T* 0 Tw .548281 Tw (thresholds; weighted points are added to give a low, moderate or high workload-risk category. The score is a ) Tj /F3 10 Tf (screening) Tj T* 0 Tw 2.456816 Tw (aid, not a medical measurement) Tj /F4 10 Tf (, and a manager should review the context with the employee before changing) Tj T* 0 Tw (assignments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 274.0701 cm
+q
+.964706 .941176 .901961 rg
+n 0 91.6 487.5591 -16.1 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 78 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.3 Tm /F3 9.8 Tf 11.1 TL (Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 87.88504 78 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.3 Tm /F3 9.8 Tf 11.1 TL (Example signal \(illustrative threshold\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 282.9087 78 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.3 Tm /F3 9.8 Tf 11.1 TL (Points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 326.789 78 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.3 Tm /F3 9.8 Tf 11.1 TL (System response) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 61.9 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F3 9.3 Tf 11.1 TL (Work duration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 87.88504 61.9 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (Shift over 9 hours, or overtime on several days) Tj T* ET
+Q
+Q
+q
+1 0 0 1 282.9087 61.9 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (+2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 326.789 61.9 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (Flag possible excessive workload) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 45.8 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F3 9.3 Tf 11.1 TL (Break duration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 87.88504 45.8 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (Less than 30 minutes of total breaks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 282.9087 45.8 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (+1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 326.789 45.8 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (Suggest a suitable rest break) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 29.7 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F3 9.3 Tf 11.1 TL (Fatigue rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 87.88504 29.7 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (Voluntary self-rating of 4 or 5 on a 1\2265 scale) Tj T* ET
+Q
+Q
+q
+1 0 0 1 282.9087 29.7 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (+3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 326.789 29.7 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (Recommend a supportive check-in) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 13.6 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F3 9.3 Tf 11.1 TL (Task errors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 87.88504 13.6 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (More errors than the person\222s usual level) Tj T* ET
+Q
+Q
+q
+1 0 0 1 282.9087 13.6 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (+2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 326.789 2.5 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 12.9 Tm /F4 9.3 Tf 11.1 TL (Review task difficulty, training and) Tj T* (workload) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.356863 .101961 .101961 RG
+1 w
+n 0 91.6 m 487.5591 91.6 l S
+.6 w
+n 0 75.5 m 487.5591 75.5 l S
+.788235 .733333 .647059 RG
+.3 w
+n 0 59.4 m 487.5591 59.4 l S
+n 0 43.3 m 487.5591 43.3 l S
+n 0 27.2 m 487.5591 27.2 l S
+.356863 .101961 .101961 RG
+1 w
+n 0 0 m 487.5591 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 53.85827 269.0701 cm
+Q
+q
+1 0 0 1 53.85827 232.2197 cm
+.964706 .941176 .901961 rg
+.356863 .101961 .101961 RG
+.8 w
+n 0 0 81.6378 36.85039 re B*
+.356863 .101961 .101961 rg
+BT /F3 8.6 Tf 10.32 TL ET
+BT 1 0 0 1 26.0097 22.11024 Tm (1. Enter) Tj T* ET
+.101961 .101961 .101961 rg
+BT /F4 8.6 Tf 10.32 TL ET
+BT 1 0 0 1 23.8597 9.637795 Tm (indicators) Tj T* ET
+.356863 .101961 .101961 RG
+.356863 .101961 .101961 rg
+1.2 w
+n 83.90551 18.4252 m 94.11024 18.4252 l S
+n 99.2126 18.4252 m 92.97638 22.3937 l 92.97638 14.45669 l h
+f*
+.964706 .941176 .901961 rg
+.356863 .101961 .101961 RG
+.8 w
+n 101.4803 0 81.6378 36.85039 re B*
+.356863 .101961 .101961 rg
+BT /F3 8.6 Tf 10.32 TL ET
+BT 1 0 0 1 122.4719 22.11024 Tm (2. Validate) Tj T* ET
+.101961 .101961 .101961 rg
+BT /F4 8.6 Tf 10.32 TL ET
+BT 1 0 0 1 131.7857 9.637795 Tm (inputs) Tj T* ET
+.356863 .101961 .101961 RG
+.356863 .101961 .101961 rg
+1.2 w
+n 185.3858 18.4252 m 195.5906 18.4252 l S
+n 200.6929 18.4252 m 194.4567 22.3937 l 194.4567 14.45669 l h
+f*
+.964706 .941176 .901961 rg
+.356863 .101961 .101961 RG
+.8 w
+n 202.9606 0 81.6378 36.85039 re B*
+.356863 .101961 .101961 rg
+BT /F3 8.6 Tf 10.32 TL ET
+BT 1 0 0 1 222.043 22.11024 Tm (3. Calculate) Tj T* ET
+.101961 .101961 .101961 rg
+BT /F4 8.6 Tf 10.32 TL ET
+BT 1 0 0 1 215.722 9.637795 Tm (rule-based score) Tj T* ET
+.356863 .101961 .101961 RG
+.356863 .101961 .101961 rg
+1.2 w
+n 286.8661 18.4252 m 297.0709 18.4252 l S
+n 302.1732 18.4252 m 295.937 22.3937 l 295.937 14.45669 l h
+f*
+.964706 .941176 .901961 rg
+.356863 .101961 .101961 RG
+.8 w
+n 304.4409 0 81.6378 36.85039 re B*
+.356863 .101961 .101961 rg
+BT /F3 8.6 Tf 10.32 TL ET
+BT 1 0 0 1 314.0891 22.11024 Tm (4. Show category) Tj T* ET
+.101961 .101961 .101961 rg
+BT /F4 8.6 Tf 10.32 TL ET
+BT 1 0 0 1 325.0799 9.637795 Tm (and reasons) Tj T* ET
+.356863 .101961 .101961 RG
+.356863 .101961 .101961 rg
+1.2 w
+n 388.3465 18.4252 m 398.5512 18.4252 l S
+n 403.6535 18.4252 m 397.4173 22.3937 l 397.4173 14.45669 l h
+f*
+.964706 .941176 .901961 rg
+.356863 .101961 .101961 RG
+.8 w
+n 405.9213 0 81.6378 36.85039 re B*
+.356863 .101961 .101961 rg
+BT /F3 8.6 Tf 10.32 TL ET
+BT 1 0 0 1 422.1313 22.11024 Tm (5. Supportive) Tj T* ET
+.101961 .101961 .101961 rg
+BT /F4 8.6 Tf 10.32 TL ET
+BT 1 0 0 1 419.16 9.637795 Tm (manager review) Tj T* ET
+Q
+q
+1 0 0 1 53.85827 219.2197 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 2.2 Tm /F2 8.8 Tf 11 TL 132.8071 0 Td (Fig. 1: WorkPulse workflow, from data entry to human review.) Tj T* -132.8071 0 Td ET
+Q
+Q
+q
+1 0 0 1 53.85827 202.2197 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 2.2 Tm /F5 10.8 Tf 13 TL (3.1 Link with Organisational Behaviour) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 149.4197 cm
+q
+BT 1 0 0 1 0 40.8 Tm 1.282421 Tw 12.7 TL /F4 10 Tf .101961 .101961 .101961 rg (WorkPulse relates to job stress, motivation, employee well-being, communication and managerial decision-making. It) Tj T* 0 Tw .971709 Tw (treats performance as the result of both working conditions and human needs. By prompting a conversation instead of) Tj T* 0 Tw .043937 Tw (automatically judging an employee, the tool supports a ) Tj /F3 10 Tf (human-relations approach) Tj /F4 10 Tf ( to management, and it can encourage) Tj T* 0 Tw (fairer task allocation when several workers face different workloads.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 144.4197 cm
+Q
+q
+1 0 0 1 53.85827 111.0197 cm
+q
+.964706 .941176 .901961 rg
+n 0 33.4 487.5591 -33.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 4 cm
+q
+BT 1 0 0 1 0 15.4 Tm 8.139528 0 Td 12.7 TL /F3 10 Tf .101961 .101961 .101961 rg (DESIGN PRINCIPLE) Tj /F4 10 Tf (  The system should explain every alert in plain language and leave the final decision to a) Tj T* 188.035 0 Td (responsible person.) Tj T* -196.1745 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.356863 .101961 .101961 RG
+.9 w
+n 0 33.4 m 487.5591 33.4 l S
+n 0 0 m 487.5591 0 l S
+n 0 0 m 0 33.4 l S
+n 487.5591 0 m 487.5591 33.4 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+.368627 .113725 .113725 RG
+1.25 w
+n 34.01575 28.34646 527.2441 785.1969 re S
+.709804 .545098 .494118 RG
+.45 w
+n 40.25197 34.58268 514.7717 772.7244 re S
+.847059 .784314 .729412 RG
+.5 w
+n 53.85827 55.27559 m 541.4173 55.27559 l S
+.407843 .380392 .364706 rg
+BT /F2 8 Tf 1 0 0 1 53.85827 41.95276 Tm (Organisational Behaviour  |  VSSUT, Burla) Tj ET
+BT /F2 8 Tf 1 0 0 1 518.9773 41.95276 Tm (Page 1) Tj ET
+Q
+
+endstream
+endobj
+5 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Times-BoldItalic
+/Encoding /WinAnsiEncoding
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Length 11180
+>>
+stream
+q 0.975 0 0 0.975 7.3465 8.1504 cm
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F3 8.8 Tf 10.56 TL ET
+.356863 .101961 .101961 rg
+BT 1 0 0 1 144.3726 802.2047 Tm (VEER SURENDRA SAI UNIVERSITY OF TECHNOLOGY  |  TERM REPORT) Tj T* ET
+.356863 .101961 .101961 RG
+.6 w
+n 53.85827 796.5354 m 541.4173 796.5354 l S
+Q
+q
+1 0 0 1 53.85827 766.0276 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.7 Tm /F3 11.8 Tf 13.5 TL (4. Proposed Scoring and Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 725.4276 cm
+q
+BT 1 0 0 1 0 28.1 Tm -0.119547 Tw 12.7 TL /F4 10 Tf .101961 .101961 .101961 rg (For a classroom prototype, each indicator adds points when its threshold is crossed \(maximum 8\). The total is mapped to a) Tj T* 0 Tw 1.277075 Tw (simple category. The points and thresholds are ) Tj /F3 10 Tf (illustrative design choices, not scientifically validated cut-offs) Tj /F4 10 Tf (. The) Tj T* 0 Tw (output shows the score, the inputs that triggered it, and one or two practical actions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 635.8276 cm
+q
+.964706 .941176 .901961 rg
+n 0 86.6 487.5591 -16.1 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 73 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.3 Tm /F3 9.8 Tf 11.1 TL (Category) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.25827 73 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.3 Tm /F3 9.8 Tf 11.1 TL (Score) Tj T* ET
+Q
+Q
+q
+1 0 0 1 122.0142 73 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.3 Tm /F3 9.8 Tf 11.1 TL (Interpretation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 287.7843 73 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.3 Tm /F3 9.8 Tf 11.1 TL (Suggested action) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 56.9 cm
+q
+.180392 .490196 .196078 rg
+BT 1 0 0 1 0 1.8 Tm /F3 9.3 Tf 11.1 TL (Low) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.25827 56.9 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (0\2262) Tj T* ET
+Q
+Q
+q
+1 0 0 1 122.0142 45.8 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 12.9 Tm /F4 9.3 Tf 11.1 TL (No major warning from entered) Tj T* (indicators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 287.7843 56.9 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (Maintain normal check-ins and healthy breaks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 29.7 cm
+q
+.698039 .415686 0 rg
+BT 1 0 0 1 0 1.8 Tm /F3 9.3 Tf 11.1 TL (Moderate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.25827 29.7 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (3\2265) Tj T* ET
+Q
+Q
+q
+1 0 0 1 122.0142 29.7 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (One or more indicators need review) Tj T* ET
+Q
+Q
+q
+1 0 0 1 287.7843 29.7 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (Discuss workload, priorities and recovery time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 13.6 cm
+q
+.701961 .14902 .117647 rg
+BT 1 0 0 1 0 1.8 Tm /F3 9.3 Tf 11.1 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.25827 13.6 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (6\2268) Tj T* ET
+Q
+Q
+q
+1 0 0 1 122.0142 13.6 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.8 Tm /F4 9.3 Tf 11.1 TL (Several warning signs appear together) Tj T* ET
+Q
+Q
+q
+1 0 0 1 287.7843 2.5 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 12.9 Tm /F4 9.3 Tf 11.1 TL (Prompt supportive review; consider reallocating) Tj T* (tasks) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.356863 .101961 .101961 RG
+1 w
+n 0 86.6 m 487.5591 86.6 l S
+.6 w
+n 0 70.5 m 487.5591 70.5 l S
+.788235 .733333 .647059 RG
+.3 w
+n 0 43.3 m 487.5591 43.3 l S
+n 0 27.2 m 487.5591 27.2 l S
+.356863 .101961 .101961 RG
+1 w
+n 0 0 m 487.5591 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 53.85827 617.3276 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.7 Tm /F3 11.8 Tf 13.5 TL (5. Prototype Development Plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 589.4276 cm
+q
+BT 1 0 0 1 2 15.4 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (1.) Tj ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 13 15.4 Tm /F4 10 Tf 12.7 TL 3.34 0 Td .756816 Tw (Build a small Python command-line program that asks for work hours, overtime, break duration, fatigue rating and) Tj T* 0 Tw -3.34 0 Td (task-error count.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 575.2276 cm
+q
+BT 1 0 0 1 2 2.7 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (2.) Tj ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 13 2.7 Tm /F4 10 Tf 12.7 TL 3.34 0 Td (Validate entries so that impossible or missing values are flagged.) Tj T* -3.34 0 Td ET
+Q
+Q
+q
+1 0 0 1 53.85827 561.0276 cm
+q
+BT 1 0 0 1 2 2.7 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (3.) Tj ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 13 2.7 Tm /F4 10 Tf 12.7 TL 3.34 0 Td (Apply transparent rules to calculate a sample score and show the reasons for the result.) Tj T* -3.34 0 Td ET
+Q
+Q
+q
+1 0 0 1 53.85827 546.8276 cm
+q
+BT 1 0 0 1 2 2.7 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (4.) Tj ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 13 2.7 Tm /F4 10 Tf 12.7 TL 3.34 0 Td (Test with fictional examples, check that outputs match the rules, and revise confusing messages.) Tj T* -3.34 0 Td ET
+Q
+Q
+q
+1 0 0 1 53.85827 519.9276 cm
+q
+BT 1 0 0 1 2 15.4 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (5.) Tj ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 13 15.4 Tm /F4 10 Tf 12.7 TL 3.34 0 Td 2.554933 Tw (If used beyond a classroom demonstration, seek consent and evaluate fairness, privacy and usefulness before) Tj T* 0 Tw -3.34 0 Td (deployment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 492.5276 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 15.4 Tm /F2 10 Tf 12.7 TL 1.014687 Tw (Evaluation note: fictional test cases can check that the code works as intended, but they cannot prove that the system) Tj T* 0 Tw (accurately detects fatigue or improves productivity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 474.0276 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.7 Tm /F3 11.8 Tf 13.5 TL (6. Findings \(Expected\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 446.1276 cm
+q
+BT 1 0 0 1 0 15.4 Tm 1.560533 Tw 12.7 TL /F4 10 Tf .101961 .101961 .101961 rg (This report presents a proposed system, not a completed field trial, so these are ) Tj /F3 10 Tf (expected outcomes, not measured) Tj T* 0 Tw (results) Tj /F4 10 Tf (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 419.2276 cm
+q
+BT 1 0 0 1 2 15.4 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (\177) Tj ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 13 15.4 Tm /F4 10 Tf 12.7 TL .913691 Tw (A consistent score may help managers notice combinations of long hours, limited breaks, fatigue reports and rising) Tj T* 0 Tw (errors.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 405.0276 cm
+q
+BT 1 0 0 1 2 2.7 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (\177) Tj ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 13 2.7 Tm /F4 10 Tf 12.7 TL (Explaining each alert may make workload discussions more objective and less dependent on guesswork.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 390.8276 cm
+q
+BT 1 0 0 1 2 2.7 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (\177) Tj ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 13 2.7 Tm /F4 10 Tf 12.7 TL (Reviewing priorities, recovery time or task allocation may help protect well-being and work quality.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 376.6276 cm
+q
+BT 1 0 0 1 2 2.7 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (\177) Tj ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 13 2.7 Tm /F4 10 Tf 12.7 TL (An alert cannot prove that fatigue caused an error and must not be treated as evidence of poor performance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 358.1276 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.7 Tm /F3 11.8 Tf 13.5 TL (7. Challenges, Limitations and Ethical Safeguards) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 292.1276 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 53.5 Tm /F4 10 Tf 12.7 TL 1.707003 Tw (The score depends on accurate inputs and may miss individual differences, job type or outside factors. This simple) Tj T* 0 Tw .979453 Tw (rule-based model is not validated and must not be presented as a medical or predictive AI tool. Explain what data are) Tj T* 0 Tw 1.33995 Tw (collected and why, collect only what is necessary, restrict access and protect records. Do not use the score alone for) Tj T* 0 Tw 2.048768 Tw (discipline, ranking, hiring or dismissal. Employees should be able to correct data and discuss alerts with a human) Tj T* 0 Tw (manager.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 273.6276 cm
+q
+.356863 .101961 .101961 rg
+BT 1 0 0 1 0 1.7 Tm /F3 11.8 Tf 13.5 TL (8. Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 207.6276 cm
+q
+BT 1 0 0 1 0 53.5 Tm 3.039914 Tw 12.7 TL /F4 10 Tf .101961 .101961 .101961 rg (WorkPulse connects programming with key Organisational Behaviour concepts: job stress, motivation, employee) Tj T* 0 Tw .899218 Tw (well-being, communication and fair workload distribution. A lightweight Python prototype can show how simple rules) Tj T* 0 Tw .638836 Tw (turn work indicators into understandable prompts for action. Its purpose is not to watch employees more closely, but to) Tj T* 0 Tw 1.133691 Tw (help managers respond ) Tj /F3 10 Tf (earlier, fairly and supportively) Tj /F4 10 Tf (. Any claim that it improves productivity must be tested with) Tj T* 0 Tw (consent, safeguards and real-world evaluation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 201.6276 cm
+Q
+q
+1 0 0 1 53.85827 178.9276 cm
+q
+.964706 .941176 .901961 rg
+n 0 22.7 487.5591 -22.7 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 5 cm
+q
+BT 1 0 0 1 0 2.7 Tm 35.29953 0 Td 12.7 TL /F3 10 Tf .101961 .101961 .101961 rg (KEY TAKEAWAY) Tj /F4 10 Tf (  Use data to start a supportive conversation, ) Tj /F2 10 Tf (not) Tj /F4 10 Tf ( to label or punish an employee.) Tj T* -35.29953 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.356863 .101961 .101961 RG
+1 w
+n 0 22.7 m 487.5591 22.7 l S
+n 0 0 m 487.5591 0 l S
+n 0 0 m 0 22.7 l S
+n 487.5591 0 m 487.5591 22.7 l S
+Q
+Q
+Q
+q
+1 0 0 1 53.85827 173.9276 cm
+Q
+q
+1 0 0 1 53.85827 171.5276 cm
+q
+.4 w
+1 J
+.356863 .101961 .101961 RG
+n 0 0 m 487.5591 0 l S
+Q
+Q
+q
+1 0 0 1 53.85827 159.3276 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 1.8 Tm /F3 8.4 Tf 10.2 TL (References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 148.1276 cm
+q
+BT 1 0 0 1 10 1.8 Tm -10 0 Td 10.2 TL /F4 8.4 Tf .333333 .333333 .333333 rg (1. International Labour Organization \(2016\). ) Tj /F2 8.4 Tf (Workplace Stress: A Collective Challenge.) Tj /F4 8.4 Tf ( ILO.) Tj T* 10 0 Td ET
+Q
+Q
+q
+1 0 0 1 53.85827 136.9276 cm
+q
+BT 1 0 0 1 10 1.8 Tm -10 0 Td 10.2 TL /F4 8.4 Tf .333333 .333333 .333333 rg (2. World Health Organization & International Labour Organization \(2022\). ) Tj /F2 8.4 Tf (Mental health at work: Policy brief.) Tj T* 10 0 Td ET
+Q
+Q
+q
+1 0 0 1 53.85827 125.7276 cm
+q
+BT 1 0 0 1 10 1.8 Tm -10 0 Td 10.2 TL /F4 8.4 Tf .333333 .333333 .333333 rg (3. National Institute for Occupational Safety and Health \(1999\). ) Tj /F2 8.4 Tf (Stress at Work.) Tj /F4 8.4 Tf ( DHHS \(NIOSH\) Publication No. 99-101.) Tj T* 10 0 Td ET
+Q
+Q
+q
+1 0 0 1 53.85827 114.5276 cm
+q
+BT 1 0 0 1 10 1.8 Tm -10 0 Td 10.2 TL /F4 8.4 Tf .333333 .333333 .333333 rg (4. Python Software Foundation. ) Tj /F2 8.4 Tf (Python 3 Documentation.) Tj /F4 8.4 Tf ( https://docs.python.org/3/) Tj T* 10 0 Td ET
+Q
+Q
+ 
+
+Q
+q
+.368627 .113725 .113725 RG
+1.25 w
+n 34.01575 28.34646 527.2441 785.1969 re S
+.709804 .545098 .494118 RG
+.45 w
+n 40.25197 34.58268 514.7717 772.7244 re S
+.847059 .784314 .729412 RG
+.5 w
+n 53.85827 55.27559 m 541.4173 55.27559 l S
+.407843 .380392 .364706 rg
+BT /F2 8 Tf 1 0 0 1 53.85827 41.95276 Tm (Organisational Behaviour  |  VSSUT, Burla) Tj ET
+BT /F2 8 Tf 1 0 0 1 518.9773 41.95276 Tm (Page 2) Tj ET
+Q
+
+endstream
+endobj
+13 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000407 00000 n 
+0000000473 00000 n 
+0000000522 00000 n 
+0000013176 00000 n 
+0000013375 00000 n 
+0000013448 00000 n 
+0000013555 00000 n 
+0000013665 00000 n 
+0000013773 00000 n 
+0000013883 00000 n 
+0000013998 00000 n 
+0000025232 00000 n 
+trailer
+<<
+/Size 14
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+25433
+%%EOF

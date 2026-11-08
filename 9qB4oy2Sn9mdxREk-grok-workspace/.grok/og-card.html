@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>WorkPulse share card</title>
+  <style>
+    @font-face {
+      font-family: "Fraunces";
+      src: url("fonts/fraunces-600.woff2") format("woff2");
+      font-weight: 600;
+      font-style: normal;
+      font-display: block;
+    }
+    @font-face {
+      font-family: "Figtree";
+      src: url("fonts/figtree-500.woff2") format("woff2");
+      font-weight: 500;
+      font-style: normal;
+      font-display: block;
+    }
+    @font-face {
+      font-family: "Figtree";
+      src: url("fonts/figtree-600.woff2") format("woff2");
+      font-weight: 600;
+      font-style: normal;
+      font-display: block;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      width: 1200px;
+      height: 630px;
+      overflow: hidden;
+      background: #F4F1EA;
+      color: #1A2332;
+    }
+    .frame {
+      position: relative;
+      width: 1200px;
+      height: 630px;
+      display: grid;
+      grid-template-columns: 708px 8px 484px;
+      background: #F4F1EA;
+    }
+    .teal {
+      background: #0F3D4C;
+      color: #F4F1EA;
+      padding: 72px 68px 64px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      position: relative;
+      overflow: hidden;
+    }
+    .seam { background: #C45C26; }
+    .paper {
+      background: #F4F1EA;
+      padding: 72px 56px 64px 52px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .kicker {
+      font-family: "Figtree", "Liberation Sans", sans-serif;
+      font-weight: 600;
+      font-size: 15px;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: #C45C26;
+    }
+    h1 {
+      margin-top: 22px;
+      font-family: "Fraunces", "Liberation Serif", serif;
+      font-weight: 600;
+      font-size: 92px;
+      line-height: 0.92;
+      letter-spacing: -0.035em;
+      color: #F4F1EA;
+    }
+    .tagline {
+      margin-top: 26px;
+      max-width: 520px;
+      font-family: "Figtree", "Liberation Sans", sans-serif;
+      font-weight: 500;
+      font-size: 28px;
+      line-height: 1.3;
+      color: #F4F1EA;
+    }
+    .pulse {
+      width: 520px;
+      height: 72px;
+      display: block;
+    }
+    .paper h2 {
+      font-family: "Fraunces", "Liberation Serif", serif;
+      font-weight: 600;
+      font-size: 34px;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      color: #1A2332;
+      max-width: 360px;
+    }
+    ol {
+      list-style: none;
+      margin-top: 28px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+    li {
+      display: grid;
+      grid-template-columns: 28px 1fr;
+      align-items: baseline;
+      gap: 10px;
+      font-family: "Figtree", "Liberation Sans", sans-serif;
+      font-weight: 500;
+      font-size: 20px;
+      line-height: 1.25;
+      color: #1A2332;
+    }
+    li span {
+      font-family: "Fraunces", "Liberation Serif", serif;
+      font-weight: 600;
+      font-size: 18px;
+      color: #C45C26;
+    }
+    .note {
+      font-family: "Figtree", "Liberation Sans", sans-serif;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 1.4;
+      color: #1A2332;
+      max-width: 340px;
+      border-top: 1px solid #1A2332;
+      padding-top: 16px;
+    }
+    .watermark {
+      position: absolute;
+      right: -40px;
+      bottom: -30px;
+      width: 420px;
+      height: 220px;
+      opacity: 0.14;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="frame">
+    <section class="teal">
+      <svg class="watermark" viewBox="0 0 420 220" aria-hidden="true">
+        <path d="M0 120 H70 L120 120 L170 28 L230 190 L280 90 H420" fill="none" stroke="#F4F1EA" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <div>
+        <p class="kicker">VSSUT Burla</p>
+        <h1>WorkPulse</h1>
+        <p class="tagline">Employee workload, in plain language.</p>
+      </div>
+      <svg class="pulse" viewBox="0 0 520 72" aria-hidden="true">
+        <path d="M4 44 H92 L148 44 L196 10 L258 64 L312 32 H516" fill="none" stroke="#C45C26" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="196" cy="10" r="6" fill="#C45C26"/>
+      </svg>
+    </section>
+    <div class="seam"></div>
+    <section class="paper">
+      <div>
+        <p class="kicker">Early warning</p>
+        <h2>A score that starts a fair conversation.</h2>
+        <ol>
+          <li><span>01</span>Hours beyond a usual day</li>
+          <li><span>02</span>Breaks cut short</li>
+          <li><span>03</span>Fatigue, self-rated</li>
+          <li><span>04</span>Errors above usual</li>
+        </ol>
+      </div>
+      <p class="note">Not a diagnosis. A prompt for supportive review.</p>
+    </section>
+  </div>
+</body>
+</html>
